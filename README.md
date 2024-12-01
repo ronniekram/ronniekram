@@ -18,7 +18,7 @@ I'm Ronnie Bee, a full stack developer, UI designer and dog enthusiast from Pitt
 * turn-based RPGs are my jam
 * actually 2 shih tzus in a trench coat
 
-<center>
+<div align="center">
   <a aria-label="LinkedIn profile" href="https://linkedin.com/in/arynn-boniface/">
     <img src="./.github/images/linkedin.svg" alt="LinkedIn" />
   </a>
@@ -32,7 +32,7 @@ I'm Ronnie Bee, a full stack developer, UI designer and dog enthusiast from Pitt
 
 ## Technologies :computer:
 
-<table>
+<table align="center">
   <tr>
     <td><a aria-label="JavaScript" href="https://www.javascript.com/">
       <img src="./.github/images/javascript.svg" alt="JavaScript" />
