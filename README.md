@@ -3,7 +3,7 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/ronniekram/ronniekram/main/.github/images/GH-BANNER-SVG-DARK.svg">
 </picture>
 
-# Hey there! :wave:
+# :wave:  Hey there!
 
 I'm Ronnie Bee, a full stack developer, UI designer and dog enthusiast from Pittsburgh, PA, USA. I currently work on the marketing team at OffSec, managing the marketing website, reducing tech debt, optimizing and templating existing content. I also build and help design new pages.
 
@@ -32,7 +32,7 @@ I'm Ronnie Bee, a full stack developer, UI designer and dog enthusiast from Pitt
 </center>
 
 
-<h2 align="left">Technologies :computer:</h2>
+<h2 align="left">:computer:  Technologies</h2>
 
 <table align="center">
   <tr>
