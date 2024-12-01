@@ -1,25 +1,141 @@
-Hi 👋 My name is Ronnie Bee
-===========================
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronniekram/ronniekram/main/.github/images/GH-BANNER-SVG-LIGHT.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/ronniekram/ronniekram/main/.github/images/GH-BANNER-SVG-DARK.svg">
+</picture>
 
-Frontend Engineer & Dog Enthusiast
-----------------------------------
+# Hey there! :wave:
 
-Creative and resourceful frontend engineer with a keen eye for design and consideration for user experience and accessibility.
+I'm Ronnie Bee, a full stack developer, UI designer and dog enthusiast from Pittsburgh, PA, USA. I currently work on the marketing team at OffSec, managing the marketing website, reducing tech debt, optimizing and templating existing content. I also build and help design new pages.
 
-* 🌍  I'm based in Pittsburgh, PA.
-* 🖥️  See my portfolio at [ronniebee.dev](http://ronniebee.dev)
-* 🧠  I'm learning Astro.js & Svelte.
-* 🤝  I'm open to collaborating on fun and interesting projects.
-* ⚡  I'm actually just two shih-tzus in a trenchcoat.
+**Pronouns:** She/Her
 
-### Skills
+**A few things abouts me:**
 
+* 5 years of experience
+* bootcamp grad & former chef
+* working to learn more about accessibility every day
+* full stack, but my heart belongs to front end :heavy_heart_exclamation:
+* turn-based RPGs are my jam
+* actually 2 shih tzus in a trench coat
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<div style="display:flex; align-items: center; justify-content: center; gap: 0.5em; padding-top: 1.5em;">
+  <a aria-label="LinkedIn profile" href="https://linkedin.com/in/arynn-boniface/">
+    <img src="./.github/images/linkedin.svg" alt="LinkedIn" />
+  </a>
 
+  <a aria-label="Email" href="mailto:arynn.boniface@gmail.com">
+    <img src="./.github/images/email.svg" alt="Gmail" />
+  </a>
 
-### Socials
+  <a aria-label="Portfolio" href="https://ronniebee.dev/">
+    <img src="./.github/images/portfolio.svg" alt="Portfolio" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://www.github.com/ronniekram" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arynn-boniface" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## Technologies :computer:
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 0.75em; padding-bottom: 0.75em; padding-top: 0.75em;">
+
+  <a aria-label="JavaScript" href="https://www.javascript.com/">
+    <img src="./.github/images/javascript.svg" alt="JavaScript" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="TypeScript" href="https://www.typescriptlang.org/">
+    <img src="./.github/images/typescript.svg" alt="TypeScript" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="React" href="https://react.dev/">
+    <img src="./.github/images/react.svg" alt="React" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Astro.js" href="https://astro.build/">
+    <img src="./.github/images/astrojs.svg" alt="Astro.js" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Svelte" href="https://svelte.dev/">
+    <img src="./.github/images/svelte.svg" alt="Svelte" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Next.js" href="https://nextjs.org/">
+    <img src="./.github/images/nextjs.svg" alt="Next.js" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 0.75em; padding-bottom: 0.75em;">
+  <a aria-label="HTML5" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="./.github/images/html5.svg" alt="HTML5" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="CSS3" href="https://www.w3.org/TR/CSS/#css">
+    <img src="./.github/images/css3.svg" alt="CSS3" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Tailwind CSS" href="https://www.tailwindcss.com/">
+    <img src="./.github/images/tailwind.svg" alt="Tailwind CSS" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="SASS" href="https://sass-lang.com/">
+    <img src="./.github/images/sass.svg" alt="SASS" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Figma" href="https://www.figma.com/">
+    <img src="./.github/images/figma.svg" alt="Figma" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Adobe Illustrator" href="https://www.adobe.com/products/illustrator.html">
+    <img src="./.github/images/ai.svg" alt="Adobe Illustrator" style="max-width: 6rem; width: 100%;" />
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 0.75em; padding-bottom: 0.75em;">
+  <a aria-label="Express" href="https://expressjs.com/">
+    <img src="./.github/images/express.svg" alt="Express" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Node.js" href="https://nodejs.org/en">
+    <img src="./.github/images/nodejs.svg" alt="Node.js" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Ruby on Rails" href="https://rubyonrails.org/">
+    <img src="./.github/images/rails.svg" alt="Ruby on Rails" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="PostgreSQL" href="https://www.postgresql.org/">
+    <img src="./.github/images/postgresql.svg" alt="PostgreSQL" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="GraphQL" href="https://graphql.org/">
+    <img src="./.github/images/graphql.svg" alt="GraphQL" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Prisma ORM" href="https://www.prisma.io/">
+    <img src="./.github/images/prisma.svg" alt="Prisma ORM" style="max-width: 6rem; width: 100%;" />
+  </a>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 0.75em; padding-bottom: 0.75em;">
+  <a aria-label="TanStack Query" href="https://tanstack.com/">
+    <img src="./.github/images/react-query.svg" alt="TanStack Query" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Zod" href="https://zod.dev/">
+    <img src="./.github/images/zod.svg" alt="Zod" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Git" href="https://git-scm.com/">
+    <img src="./.github/images/git.svg" alt="Git" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="PNPM" href="https://pnpm.io/">
+    <img src="./.github/images/pnpm.svg" alt="PNPM" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="Sanity CMS" href="https://www.sanity.io/">
+    <img src="./.github/images/sanity.svg" alt="Sanity CMS" style="max-width: 6rem; width: 100%;" />
+  </a>
+
+  <a aria-label="WordPress" href="https://www.wordpress.org/">
+    <img src="./.github/images/wordpress.svg" alt="WordPress" style="max-width: 6rem; width: 100%;" />
+  </a>
+</div>
